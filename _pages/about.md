@@ -31,7 +31,7 @@ Selected Publication
 <img src="https://github.com/user-attachments/assets/0ade5c1f-23db-4194-a616-55ceece8cbfd" width="200" height="300">
 
 
-- QUESIR: DIFFERENTIATED QUESTIONS ENHANCE DISTINCTION IN IMAGE RETRIEVAL
+- QuesIR: Differentiated Questions Enhance Distinction In Image Retrieval
 
   Xiaochen Wei*, **Yancan Chen(Co-first author)**, Yongfeng Huang, Ye Yuan, Heng Chang, Yi-Chieh Lee.
 
