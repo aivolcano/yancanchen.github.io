@@ -15,7 +15,7 @@ Education
 ======
 M.S. in Computer Science at National University of Singapore, 2025
 * Research Assistant in NUS [AI4SG](https://www.ai4sg.org/) Lab
-* Research Inter at [Yangtze Delta Region Institute of Tsinghua University](https://www.tsinghua-zj.edu.cn/en/home). 
+* Research Inter at AI Research Centre, [Yangtze Delta Region Institute of Tsinghua University](https://www.tsinghua-zj.edu.cn/en/home). 
 
 
 Selected Publication
