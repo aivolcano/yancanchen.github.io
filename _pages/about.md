@@ -21,8 +21,9 @@ M.S. in Computer Science at National University of Singapore, 2025
 Selected Publication
 ======
 **Co-first author**
-
 - Baichuan2-Sum: Instruction Finetune Baichuan2-7B Model for Dialogue Summarization, Jianfei Xiao*, **Yancan Chen***, Yimin Ou, Hanyi Yu, Kai Shu, Yiyong Xiao, [PDF](https://arxiv.org/abs/2401.15496), [Code](https://github.com/aivolcano/LLM4DialogueSummarization). Accepted by IJCNN 2024 (top-tier paper)
+<img width="445" alt="image" src="https://github.com/user-attachments/assets/0ade5c1f-23db-4194-a616-55ceece8cbfd">
+
 - QUESIR: DIFFERENTIATED QUESTIONS ENHANCE DISTINCTION IN IMAGE RETRIEVAL, Xiaochen Wei*, **Yancan Chen***, Yongfeng Huang, Ye Yuan, Heng Chang, Yi-Chieh Lee. Under reviewing.
 ![qs](https://github.com/user-attachments/assets/18a1a4f1-876a-4c57-8560-ee0705c53209)
 
