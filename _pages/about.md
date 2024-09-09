@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, I am Yancan Chen, a graduate student in Department of Computer Science at National Univeristy of Singapore (NUS), supervised by Prof. [Yi-Chich Lee](https://www.comp.nus.edu.sg/cs/people/yclee/).
 
-I am working on multi-modal model retrievals and Natural Language Processing.
+I am working on multi-modal model retrievals and Multi-agent system.
 
 A data-driven personal website
 ======
