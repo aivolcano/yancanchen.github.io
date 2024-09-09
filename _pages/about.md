@@ -22,8 +22,8 @@ Selected Publication
 ======
 **Co-first author**
 
-- Baichuan2-Sum: Instruction Finetune Baichuan2-7B Model for Dialogue Summarization,Jianfei Xiao*, **Yancan Chen***, Yimin Ou, Hanyi Yu, Kai Shu, Yiyong Xiao, [PDF](https://arxiv.org/abs/2401.15496), [Code](https://github.com/aivolcano/LLM4DialogueSummarization)
-
+- Baichuan2-Sum: Instruction Finetune Baichuan2-7B Model for Dialogue Summarization, Jianfei Xiao*, **Yancan Chen***, Yimin Ou, Hanyi Yu, Kai Shu, Yiyong Xiao, [PDF](https://arxiv.org/abs/2401.15496), [Code](https://github.com/aivolcano/LLM4DialogueSummarization). Accepted by IJCNN 2024 (top-tier paper)
+- QUESIR: DIFFERENTIATED QUESTIONS ENHANCE DISTINCTION IN IMAGE RETRIEVAL, Xiaochen Wei*, **Yancan Chen***, Yongfeng Huang, Ye Yuan, Heng Chang, Yi-Chieh Lee
 
 Site-wide configuration
 ------
