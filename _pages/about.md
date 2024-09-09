@@ -15,7 +15,7 @@ Education
 ======
 M.S. in Computer Science at National University of Singapore, 2025
 * Research Assistant in NUS [AI4SG](https://www.ai4sg.org/) Lab
-* Research Inter at [Yangtze Delta Region Institute of Tsinghua University](https://www.tsinghua-zj.edu.cn/en/home)
+* Research Inter at [Yangtze Delta Region Institute of Tsinghua University](https://www.tsinghua-zj.edu.cn/en/home). 
 
 
 Selected Publication
@@ -23,7 +23,7 @@ Selected Publication
 **Co-first author**
 
 - Baichuan2-Sum: Instruction Finetune Baichuan2-7B Model for Dialogue Summarization, Jianfei Xiao*, **Yancan Chen***, Yimin Ou, Hanyi Yu, Kai Shu, Yiyong Xiao, [PDF](https://arxiv.org/abs/2401.15496), [Code](https://github.com/aivolcano/LLM4DialogueSummarization). Accepted by IJCNN 2024 (top-tier paper)
-- QUESIR: DIFFERENTIATED QUESTIONS ENHANCE DISTINCTION IN IMAGE RETRIEVAL, Xiaochen Wei*, **Yancan Chen***, Yongfeng Huang, Ye Yuan, Heng Chang, Yi-Chieh Lee
+- QUESIR: DIFFERENTIATED QUESTIONS ENHANCE DISTINCTION IN IMAGE RETRIEVAL, Xiaochen Wei*, **Yancan Chen***, Yongfeng Huang, Ye Yuan, Heng Chang, Yi-Chieh Lee. Under reviewing.
 
 Site-wide configuration
 ------
