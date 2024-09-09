@@ -20,7 +20,7 @@ M.S. in Computer Science at National University of Singapore, 2025
 
 Selected Publication
 ======
-* Co-first author
+**Co-first author**
 
 - Baichuan2-Sum: Instruction Finetune Baichuan2-7B Model for Dialogue Summarization,Jianfei Xiao*, **Yancan Chen***, Yimin Ou, Hanyi Yu, Kai Shu, Yiyong Xiao, [PDF](https://arxiv.org/abs/2401.15496), [Code](https://github.com/aivolcano/LLM4DialogueSummarization)
 
